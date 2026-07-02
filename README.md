@@ -84,7 +84,7 @@ This project is an interactive Power BI dashboard developed to analyze social me
 
 # Marketing Insights
 
-![Marketing Insights](screenshots/page3.png)
+![Marketing Insights](Page3.png)
 
 ---
 
