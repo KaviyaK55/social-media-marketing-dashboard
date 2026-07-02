@@ -80,7 +80,7 @@ This project is an interactive Power BI dashboard developed to analyze social me
 
 # Campaign Performance
 
-![Campaign Performance](screenshots/page2.png)
+![Campaign Performance](Page2.png)
 
 # Marketing Insights
 
