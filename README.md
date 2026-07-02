@@ -76,7 +76,7 @@ This project is an interactive Power BI dashboard developed to analyze social me
 
 # Executive Dashboard
 
-![Executive Dashboard](screenshots/page1.png)
+![Executive Dashboard](Page1.png)
 
 # Campaign Performance
 
